@@ -1,1 +1,1 @@
-The following are the RMSE values for the 1st, 2nd, and 3rd pass analyses, respectively: 4.637210541238219, 5.79780568562285, 0.06755117912439991
+The following are the RMSE values for the 1st, 2nd, and 3rd pass analyses, respectively: 2.93416877681652, 0.28583898704330357, 0.1527852207247989
