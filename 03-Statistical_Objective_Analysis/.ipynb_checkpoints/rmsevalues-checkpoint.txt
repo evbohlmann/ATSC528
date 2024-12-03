@@ -1,0 +1,1 @@
+The following are the RMSE values for the 2-point, 4-point, and 10-point analyses, respectively: 52.047772434218345, 50.480475914755736, 46.2050702632865
