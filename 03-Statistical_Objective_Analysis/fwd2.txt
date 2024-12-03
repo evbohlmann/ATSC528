@@ -1,0 +1,1 @@
+The following are forward-interpolated values based upon the N=2 analysis: <_io.TextIOWrapper name='fwd2.txt' mode='w' encoding='cp1252'>
